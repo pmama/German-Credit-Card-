@@ -1,4 +1,4 @@
-# German-Credit-Card💳
+# German-Credit-Card
 
 I'm thrilled to share that I've been diving deep into the world of credit card data, leveraging cutting-edge machine learning techniques. 🤖💳 After a thorough analysis, I put several powerful algorithms to the test, including 
 ✅Logistic Regression, 
